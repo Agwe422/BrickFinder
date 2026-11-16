@@ -1,0 +1,16 @@
+{
+    "images": 2000,
+    "annotation_files": 2000,
+    "original_annotations": 800000,
+    "valid_annotations": 799984,
+    "excluded_annotations": 16,
+    "columns": [
+        "image_filename",
+        "part_id",
+        "color_id",
+        "xmin",
+        "ymin",
+        "xmax",
+        "ymax"
+    ]
+}
