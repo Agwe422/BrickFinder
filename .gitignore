@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# images and generated data (too big for git)
+data/raw/
+data/yolo/
+
+# training runs and model weights
+runs/
+*.pt

@@ -1,0 +1,13 @@
+# python 3.12
+# don't install albumentations, YOLO automatically uses it for extra augmentation if it's there
+ultralytics==8.4.215
+torch==2.15.0
+torchvision==0.29.2
+numpy==2.5.5
+pandas==3.1.1
+pyarrow==26.0.1
+pillow==13.0.0
+matplotlib==3.11.2
+ipykernel==7.4.0
+kaggle==2.2.5
+six==1.17.0
